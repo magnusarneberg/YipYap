@@ -1,2 +1,2 @@
-# yipyap
-Speed Read Flasher
+# YipYap
+Speed read flasher mobile app.
